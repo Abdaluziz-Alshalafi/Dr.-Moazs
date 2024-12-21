@@ -1,4 +1,3 @@
-// import 'package:test_2/widgets/Abdaluziz_button.dart';
 import 'package:flutter/material.dart';
 import 'package:abdaluziz_hw_1/theme/color.dart';
 import 'package:abdaluziz_hw_1/views/login_page.dart';
